@@ -4,4 +4,4 @@
  
 # Just for show...
 
-<a href='https://yanghaomine4ever.github.io/OneDayOfEstelle/'>click hero to play!</a>
+# <a href='https://yanghaomine4ever.github.io/OneDayOfEstelle/' target='_blank' >click hero to play!</a>
